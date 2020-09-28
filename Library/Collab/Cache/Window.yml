@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Cem/Prefabs/GameOverPanel.prefab
+    - Assets/Cem/Prefabs/GameOverPanel.prefab.meta
+    - Assets/Cem/Scenes/Tilemap.unity
+    - Assets/Cem/Scripts/GameMng.cs
+    - Assets/Cem/Scripts/Medkit.cs
+    - Assets/Erkan/Scenes/MainMenu.unity
+    - Assets/Scenes.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scenes/SampleScene.unity.meta
+    - Assets/Sprites.meta
+    - Assets/Sprites/BirdEnemyDeathSprite.png
+    - Assets/Sprites/BirdEnemyDeathSprite.png.meta
+    - Assets/Sprites/BirdEnemyFlapSprite.png
+    - Assets/Sprites/BirdEnemyFlapSprite.png.meta
+    - Assets/Sprites/BirdEnemyIdleSprite.png
+    - Assets/Sprites/BirdEnemyIdleSprite.png.meta
+    - Assets/Sprites/BirdHeroSprite.png
+    - Assets/Sprites/BirdHeroSprite.png.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - 
+    m_Values: 0000000000010000000000000000000000000000
+  RevisionSummary: Oyun bitti
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 7c105ca59819fd3ba079f341c37e3208785104cd
+  HistoryPageNumber: 0
+  TabIndex: 1
